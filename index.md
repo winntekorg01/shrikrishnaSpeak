@@ -95,7 +95,25 @@ We do not knowingly collect personal information from children. If you believe a
 
 ---
 
-## 9. Contact Information
+## 9. Account Deletion
+
+KrishnaAI users can request deletion of their account and associated data.
+
+To request account deletion, please email:
+**winntekorg@gmail.com**
+
+Include the Google email address used to sign in.
+
+Upon verification, the following data will be deleted:
+- User account record
+- Chat history
+- Voice interaction metadata
+
+Data will be deleted within 7 working days.
+
+---
+
+## 10. Contact Information
 
 If you have any questions or requests regarding this Privacy Policy or your data, you may contact us at:
 
