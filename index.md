@@ -50,7 +50,23 @@ We use your information to:
 
 ---
 
-## 4. Sharing of Information
+## 4. Content Moderation and Responsible Use
+
+To maintain a safe and respectful environment, KrishnaAI may automatically analyze text and voice inputs to detect abusive, hateful, or harmful content.
+
+Moderation checks are performed only to enforce acceptable use and prevent misuse
+
+Voice inputs are first converted to text before any moderation analysis
+
+Moderation decisions are automated and do not involve human review in normal operation
+
+Abusive or prohibited content may be blocked, and the app may refuse to respond
+
+KrishnaAI does not use moderated content for advertising or profiling purposes.
+
+---
+
+## 5. Sharing of Information
 
 We do **not** sell your personal data.
 
@@ -63,7 +79,7 @@ These providers process data only as required to deliver their services and are 
 
 ---
 
-## 5. Data Retention
+## 6. Data Retention
 
 We retain user data only for as long as necessary to:
 - Operate the application
@@ -74,7 +90,7 @@ Some anonymized or minimal logs may be retained for security and diagnostic purp
 
 ---
 
-## 6. Your Choices and Controls
+## 7. Your Choices and Controls
 
 - You may choose not to use voice features by denying microphone permission.
 - You may stop using the app at any time.
@@ -82,20 +98,20 @@ Some anonymized or minimal logs may be retained for security and diagnostic purp
 
 ---
 
-## 7. Data Security
+## 8. Data Security
 
 We implement reasonable technical and organizational safeguards to protect your information. However, no method of transmission or storage is completely secure.
 
 ---
 
-## 8. Children’s Privacy
+## 9. Children’s Privacy
 
 KrishnaAI is **not intended for children under the age of 13**.  
 We do not knowingly collect personal information from children. If you believe a child has provided personal data, please contact us so we can remove it.
 
 ---
 
-## 9. Account Deletion
+## 10. Account Deletion
 
 KrishnaAI users can request deletion of their account and associated data.
 
